@@ -1,0 +1,1 @@
+jmeter -n -t WITS_Script\WITS_Jmeter.jmx -l WITS_Results\Users-${USERS}_RampUp-${RAMPUP_PERIOD}_Iteration-${ITERATION}_${__time(yyyy-MM-dd_HH-mm-ss)}.jtl
